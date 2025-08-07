@@ -1,6 +1,8 @@
 # gemini-financial-researcher
 A multi agent financial research assistant that uses Gemini API and crewAI to generate comprehensive financial reports. This project uses agentic workflows, RAG with real time data, and integration with external APIs. It is designed to be a modular and scalable solution for automated financial analysis.
 
+***8THE SAMPLE OUTPUT IS PROVIDED IN THE report.md FILE****
+
 AI Financial Research Crew
 An advanced financial analysis tool powered by a crew of autonomous AI agents. This project leverages Google's Gemini Pro and the crewAI framework to automate the process of researching and analyzing financial data for any given company, delivering comprehensive and insightful reports.
 
