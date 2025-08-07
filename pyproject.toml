@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "financial-researcher"
+version = "0.1.0"
+description = "A financial researcher application using AI agents"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+crewai = "0.30.11"
+crewai-tools = "0.1.7"
+langchain-google-genai = "1.0.1" # Added for Gemini
+python-dotenv = "1.0.1"
+google-generativeai = "0.5.4" # Added for Gemini
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
